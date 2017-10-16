@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+}
+
+#Page-header {
+    color: green;
+    background-color: black;
+}
+
+.blog-post {
+    color: orange;
+    background-color: rgb(35, 53, 144);
+    margin: 1em 1em 1em 1em;
+}
