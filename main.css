@@ -1,14 +1,20 @@
 body {
     background-color: blue;
+    background-image: url(images/building.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    size: 100% 100%;
+
 }
 
 #Page-header {
     color: green;
     background-color: black;
+
 }
 
 .blog-post {
     color: orange;
-    background-color: rgb(35, 53, 144);
+    background-color: rgba(35, 53, 144, .8);
     margin: 1em 1em 1em 1em;
 }
